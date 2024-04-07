@@ -1,0 +1,82 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(157, 192, 245);
+}
+
+.linha {
+    display: flex;
+    margin: 1px;
+}
+
+.calculadora {
+    background-color: rgb(17, 99, 192);
+    width: 375px;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+button {
+    width: 87.5px;
+    height: 87.5px;
+    border: none;
+    margin: 5px;
+    border-radius: 20px;
+    background-color: white;
+    cursor: pointer;
+    font-size: 30px; /* Ajuste do tamanho dos números nos botões */
+}
+
+.operador {
+    background-color: rgb(104, 243, 253);
+}
+.operador1 {
+    background-color: rgb(11, 186, 199);
+    color: whitesmoke;
+}
+
+button:hover {
+    background-color: rgb(169, 215, 241);
+}
+
+.operador:hover {
+    background-color: rgb(70, 182, 190);
+    color: whitesmoke;
+}
+.operador1:hover {
+    background-color: rgb(26, 136, 136);
+    color: rgb(0, 0, 0);
+}
+
+.igual {
+    background-color: rgb(11, 186, 199);
+    color: whitesmoke;
+    font-size: 30px; /* Ajuste do tamanho dos números no botão de igual */
+}
+
+.igual:hover {
+    background-color: rgb(26, 136, 136);
+    color: rgb(0, 0, 0);
+}
+
+.display {
+    display: flex;
+    background-color: rgb(12, 68, 131);
+    height: 87.5px;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 12.5px;
+    padding-right: 12.5px;
+    border-radius: 20px;
+    color: whitesmoke;
+    font-size: 45px; 
+    overflow: hidden; 
+    white-space: nowrap; 
+}
+
+button:active {
+    transform: translateY(6px);
+}
