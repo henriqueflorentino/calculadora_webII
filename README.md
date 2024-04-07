@@ -10,7 +10,7 @@ O projeto se tratando de uma calculadora simples priorizou as seguintes operaç�
 * **` - `** = SUBTRAÇÃO
 * **` * `** = MULTIPLICAÇÃO
 * **` / `** = DIVISÃO
->Além disso conta com operações decimais e também a função **` C `** , sendo para limpar o display atual.
+>Além disso conta com operações decimais e também a função **` C `** , com recurso de limpar o display atual.
 
 ### 🌐 Confira o projeto!
 > Disponivel para dispositos desktop e mobile!
