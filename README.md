@@ -12,7 +12,7 @@ O projeto se tratando de uma calculadora simples priorizou as seguintes operaç�
 * **` / `** = DIVISÃO
 >Além disso conta com operações decimais e também a função **` C `** , com recurso de limpar o display atual.
 
-### 🌐 Confira o projeto!
+# 🌐 Confira o projeto!
 > Disponivel para dispositos desktop e mobile!
 
 [Calculadora WEB|| Clique para testar!](https://calculad0raweb.netlify.app/)
