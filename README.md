@@ -18,6 +18,5 @@ O projeto se tratando de uma calculadora simples priorizou as seguintes operaç�
 [Calculadora WEB|| Clique para testar!](https://calculad0raweb.netlify.app/)
 
 # 💡 Demonstração da calculadora:
-
-https://github.com/henriqueflorentino/calculadora_webII/assets/94813609/4edcda09-c239-4c76-a0ac-d101d60c207b
+https://github.com/henriqueflorentino/calculadora_webII/assets/94813609/25873c7e-bbc8-4cb4-9aa7-2a21dce05675
 > Nesse vídeo podemos ver a calculadora com todas as operações em funcionamento!
