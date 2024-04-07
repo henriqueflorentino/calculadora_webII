@@ -4,7 +4,7 @@
 
 
 ### ⚙️ Operações
-O projeto se tratando de uma calculadora simples priorizou essas operações matemáticas:
+O projeto se tratando de uma calculadora simples priorizou as seguintes operações matemáticas:
 
 * **` + `** = ADIÇÃO
 * **` - `** = SUBTRAÇÃO
